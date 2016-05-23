@@ -1,0 +1,8 @@
+{
+	"name": "lannonbr.com",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"theme_color": "#583987",
+	"background_color": "#EEE"
+}
